@@ -1,0 +1,73 @@
+
+header
+{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 70%;
+    height: 70px;
+    line-height: 70px;
+    background-color: #333333;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+h1
+{
+    color: black;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+h2
+{
+    color: crimson;
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+
+}
+
+h3
+{
+  color: blue;
+}
+
+body
+{
+    background-color: grey;
+}
+
+#about
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+#logo
+{
+    color: whitesmoke;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    float: left;
+    margin-left: 30px;
+
+}
+
+#menu
+{
+    float: right;
+    margin-right: 30px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+#menu a
+{
+    margin-right: 15px;
+    color:white;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+#menu a:hover
+{
+    color: chocolate;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
