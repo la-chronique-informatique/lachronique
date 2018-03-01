@@ -71,3 +71,9 @@ body
     color: chocolate;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
+
+ul li
+{
+    list-style-type: none;
+}
+
