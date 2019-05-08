@@ -43,7 +43,7 @@ body
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
-#article
+div
 {
     width: 800px;
     margin:0 auto;
