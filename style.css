@@ -6,12 +6,12 @@ header
     margin-right: 70%;
     height: 70px;
     line-height: 70px;
-    background-color: #333333;
+    background-color: grey;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 h1
 {
-    color: black;
+    color: orange;
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
@@ -25,12 +25,12 @@ h2
 
 h3
 {
-  color: blue;
+  color: black;
 }
 
 body
 {
-    background-color: grey;
+    background-color: orange;
 }
 
 #about
@@ -76,4 +76,3 @@ ul li
 {
     list-style-type: none;
 }
-
