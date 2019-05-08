@@ -43,6 +43,16 @@ body
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
+#article
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
 #logo
 {
     color: whitesmoke;
